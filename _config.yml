@@ -28,8 +28,6 @@ navbar-links:
     - RF end: "rfend"
     - Module: "module"
     - Article: "IC"
-      - Analog: "analog"
-      - Digital: "digital"
     - GitHub Pages: "https://eedesignhouse.github.com/"
   Author's home: "http://eedesign.tk"
 
